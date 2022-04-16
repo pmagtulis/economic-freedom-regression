@@ -21,3 +21,8 @@ For this repository, we used the subindex **"Business Freedom"** as the dependen
 **Property Rights** as independent variables in a regression. The goal is to assess which among these variables best determine business freedom across
 territories.
 
+# Contact
+
+Prinz Magtulis, [ppm2130@columbia.edu](mailto:ppm2130@columbia.edu)
+
+**Comments and suggestions are always welcome! All rights reserved.**
