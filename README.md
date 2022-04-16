@@ -1,4 +1,4 @@
-# economic-freedom
+# economic-freedom-regression
 
 # What is this?
 
