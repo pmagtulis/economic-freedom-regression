@@ -7,8 +7,10 @@ This project is for my Algorithms class, in partial fulfillment of my requiremen
 
 # How it works
 
-This is an R file which reads through a CSV file provided for in **raw_data** directory. The code includes fixed effects and ordinary least squares
-regression models on select subindices of the annual report.
+There are two files in here: one is a Jupyter notebook containing the **linear regression model** and two, an R file containing the **fixed-effects 
+model**. This is done so because of technical difficulties to run a fixed-effects model using Python and to give more users wider access to the models.
+
+Both files use the CSV file provided for in **raw_data** directory.
 
 # What is the data about?
 
